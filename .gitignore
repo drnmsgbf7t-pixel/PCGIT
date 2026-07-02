@@ -1,2 +1,14 @@
 git-meta/
 .git/
+.agents/
+
+.env
+.env.*
+
+node_modules/
+
+dist/
+build/
+out/
+
+*.log
